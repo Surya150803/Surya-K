@@ -1,6 +1,6 @@
-# Surya K
-# About Me 💫:
-👋 Hi There, How are you!?<br> <br>✨I’m currently a CSE undergrad, studying in Manipal Institute of Technology! <br>🌱Learning Full Stack Development and trying to Strengthen my DSA skills ⚡<br>🤔Shoot an [Email](m01suryak@gmail.com) or Add me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/surya-kiran-3430b525b/) / [Insta](https://instagram.com/https://www.instagram.com/suryaa.kiran/) :)
+# Hi, How are you!? 👋
+
+✨I’m currently a CSE undergrad, studying in Manipal Institute of Technology! <br>🌱Learning Full Stack Development and trying to Strengthen my DSA skills ⚡<br>💭Feel Free to contact me on [Email](m01suryak@gmail.com) or Add me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/surya-kiran-3430b525b/) / [Insta](https://instagram.com/https://www.instagram.com/suryaa.kiran/) :)
 
 
 ## 🌐 Socials:
